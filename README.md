@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Tey Jia Ying</h1>
 <h3 align="center">Business Analytics Undergraduate @ NUS | AI Engineer @ Onschool 📚</h3>
-<h3 align="center">Exploring 🔍 Machine Learning & AI 🤖 | Data Science 📊 | Web Development 🌐</h3>
+<h3 align="center">Specializing 🔍 Machine Learning & AI 🤖 | Data Science 📊 | Exploring Web Development 🌐</h3>
 
 <!--
 **jiayingtjy/jiayingtjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
