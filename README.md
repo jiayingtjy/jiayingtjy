@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Tey Jia Ying</h1>
 <h3 align="center">Business Analytics Undergraduate @ NUS | AI Engineer @ Onschool 📚</h3>
 <h3 align="center">Specializing 🔍 Machine Learning & AI 🤖 | Data Science 📊 | Exploring Web Development 🌐</h3>
