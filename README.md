@@ -1,4 +1,12 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tey Jia Ying</h1>
+<h3 align="center">Business Analytics Undergraduate @ NUS | AI Engineer @ Onschool 📚</h3>
+<h3 align="center">Exploring 🔍 Machine Learning & AI 🤖 | Data Science 📊 | Web Development 🌐</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TeyJiaYing&label=Visitors&color=blue&style=plastic" alt="TeyJiaYing" />
+</p>
+
 
 <!--
 **jiayingtjy/jiayingtjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
